@@ -2,8 +2,13 @@ class Carro:
     
     def __init__(self, marca, color, placa, modelo):
         # Propiedades
-        self.numero_llantas = 5
-        self.marca = marca
         self.color = color
-        self.placa = placa
-        self.modelo = modelo
+        self.ruedas = 5
+        self.puertas = 5
+
+ class Coche(vehiculo):
+        self.velocidad = velocidad
+        self.cilindrada = cilindrada
+        
+coche = Coche("Rojo", 4, 4, "120 km/h", 100)
+print(coche)
