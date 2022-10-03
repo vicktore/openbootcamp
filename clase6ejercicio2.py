@@ -15,7 +15,7 @@ class Alumno:
             return "Condicion: DESAPROBADO"
 
 
-nombre = "Jose Carlos Joao"
+nombre = "victor"
 nota = 8
 
 alumno =Alumno(nombre, nota)
