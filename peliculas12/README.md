@@ -1,4 +1,4 @@
-# OpenBootCamp - FullStack Route - Introduccion a Python
+# OpenBootCamp - Introduccion a Python
 
 ### Tarea
 ---
